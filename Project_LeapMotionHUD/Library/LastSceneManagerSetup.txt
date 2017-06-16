@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Hover/InputModules/LeapMotion/Scenes/HoverInputModule-LeapMotion.unity
+  isLoaded: 1
+  isActive: 1
